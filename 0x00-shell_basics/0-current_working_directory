@@ -1,1 +1,2 @@
-pwd a script that prints absolute path of current working directory
+#!/bin/bash
+pwd "print current working directory"
